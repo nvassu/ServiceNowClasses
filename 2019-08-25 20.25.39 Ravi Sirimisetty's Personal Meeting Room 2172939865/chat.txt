@@ -1,0 +1,3 @@
+21:06:50	 From  Ravi Sirimisetty : current.setAbortAction(true);
+21:52:27	 From  Ravi Sirimisetty : https://www.servicenowguru.com/scripting/gliderecord-query-cheat-sheet/
+22:10:18	 From  Ravi Sirimisetty : https://www.servicenowguru.com/scripting/gliderecord-query-cheat-sheet/
